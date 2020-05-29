@@ -1,4 +1,3 @@
-"helloooooooo ooo "
 helloooooooo ooo 
 # Classical Aerodynamics with Python
 
